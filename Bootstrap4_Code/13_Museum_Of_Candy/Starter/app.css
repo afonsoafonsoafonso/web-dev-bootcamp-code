@@ -1,0 +1,57 @@
+body {
+    background: #f5d9d5;
+    font-family: Nunito, sans-serif;
+}
+
+#firstRow h1 {
+    font-family: Nunito, sans-serif;
+    color: white;
+    letter-spacing: 3px;
+    font-weight: 100;
+    font-size: 3.8rem;
+}
+
+#mainNavBar {
+    font-weight: 100;   
+}
+
+#mainNavBar .navbar-brand {
+    color: #EA1C2C;
+    font-size: 1.5rem;
+}
+
+#mainNavBar .navbar-nav .nav-link {
+    color: white;
+    font-family: Nunito, sans-serif;
+    font-size: 1.5rem;
+}
+
+#mainNavBar .navbar-nav .nav-link:hover {
+    color: #EA1C2C;
+}
+
+.side-text p {
+    padding-left: 12%;
+    padding-right: 12%;
+    font-weight: 100;
+    font-size: 1.2rem;
+    color: #f498b8;
+    line-height: 2;
+}
+
+.side-text h1 {
+    font-weight: 100;
+    color: #EA1C2C;
+}
+
+@media (max-width: 1300px) {
+    #firstRow h1 {
+        font-size: 3rem;
+    }
+}
+
+@media (max-width: 1100px) {
+    #firstRow h1 {
+        font-size: 2.5rem;
+    }
+}

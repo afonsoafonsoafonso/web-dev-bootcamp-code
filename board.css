@@ -1,0 +1,51 @@
+h1 {
+    text-align: center;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border-spacing: 0px;
+}
+
+td {
+    width: 100px;
+    height: 100px;
+}
+
+#top-l {
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+}
+
+#top-m {
+    border-bottom: 1px solid black;
+}
+
+#top-r {
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+#mid-l {
+    border-right: 1px solid black;
+}
+
+#mid-r {
+    border-left: 1px solid black;
+}
+
+#bot-l {
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+}
+
+#bot-m {
+    border-top: 1px solid black;
+}
+
+#bot-r {
+    border-left: 1px solid black;
+    border-top: 1px solid black;
+}
+

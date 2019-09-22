@@ -1,0 +1,12 @@
+h1 {
+    color: rgba(0,200,100, 0.8);
+    border: 2px solid rgb(255,100,80);
+}
+
+h4 {
+    background: rgb(255,100,80);
+}
+
+body {
+    background: pink;
+}
